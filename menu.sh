@@ -14,7 +14,7 @@ elif [[ $input -eq 2 ]]
 then
       ./DiskSpace.sh
 
-elif [[ $input -eq 3_]]
+elif [[ $input -eq 3 ]]
 then
       ./Encrypt.sh
 
